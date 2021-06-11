@@ -112,8 +112,8 @@ $_REQUEST = [];
  * Variables set by the web server or otherwise directly related to the execution environment of the current script.
  * Analogous to the old $HTTP_SERVER_VARS array (which is still available, but deprecated).
  *
- * <p><a href="https://secure.php.net/manual/en/reserved.variables.php">
- * https://secure.php.net/manual/en/reserved.variables.php</a>
+ * <p><a href="https://www.php.net/manual/en/reserved.variables.server.php">
+ * https://www.php.net/manual/en/reserved.variables.server.php</a>
  */
 $_SERVER = [];
 /**
